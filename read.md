@@ -11,11 +11,11 @@ Esta é uma aplicação simples que permite aos usuários inserirem nomes de ami
 
 🛠️ Linguagens & Ferramentas
 <div> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg width="50px"" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg width="50px"" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg width="50px"" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg width="50px"" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg" width="50px" />
 
 
 </div>
@@ -35,8 +35,8 @@ cd sorteio-amigo-secreto
 3️⃣ Abra o arquivo index.html em um navegador.
 
 🔥 Passo a Passo
-1️⃣ Digite o nome de um amigo no campo de entrada.
-2️⃣ Clique em "Adicionar" para incluir o nome na lista.
-3️⃣ Repita o processo para adicionar mais nomes.
-4️⃣ Quando todos os nomes estiverem na lista, clique em "Sortear Amigo".
-5️⃣ O nome do sorteado será exibido na tela!
+<p>1️⃣ Digite o nome de um amigo no campo de entrada.</p>
+<p>2️⃣ Clique em "Adicionar" para incluir o nome na lista.</p>
+<p>3️⃣ Repita o processo para adicionar mais nomes.</p>
+<p>4️⃣ Quando todos os nomes estiverem na lista, clique em "Sortear Amigo".</p>
+<p>5️⃣ O nome do sorteado será exibido na tela!</p>
