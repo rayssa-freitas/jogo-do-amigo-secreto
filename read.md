@@ -1,41 +1,38 @@
-<h1> Jogo do Amigo Secreto </h1>
-<h3> Descubra seu amigo especial! </h3>
+🎁 Jogo do Amigo Secreto
+🎉 Descubra seu amigo especial!
+📌 Objetivo
+Esta é uma aplicação simples que permite aos usuários inserirem nomes de amigos em uma lista e, em seguida, realizarem um sorteio aleatório para determinar quem será o "amigo secreto".
 
-<h2>Objetivo</h2>
-<p>Esta é uma aplicação simples que permite aos usuários inserirem nomes de amigos em uma lista e, em seguida, realizarem um sorteio aleatório para determinar quem será o "amigo secreto".</p>
+🚀 Funcionalidades
+✅ Adicionar Nomes: O usuário pode inserir nomes em um campo de texto e adicioná-los à lista ao clicar no botão "Adicionar".
+✅ Validação de Entrada: O programa impede que entradas vazias sejam adicionadas, exibindo um alerta caso isso ocorra.
+✅ Visualização da Lista: Os nomes inseridos aparecem abaixo do campo de entrada.
+✅ Sorteio Aleatório: Um nome é escolhido aleatoriamente ao clicar no botão "Sortear Amigo", e o resultado é exibido na tela.
 
-<h2>Funcionalidades</h2>
-<ul>
-<li>Adicionar Nomes: O usuário pode inserir nomes em um campo de texto e adicioná-los à lista ao clicar no botão "Adicionar".</li>
-<li>Validação de Entrada: O programa impede que entradas vazias sejam adicionadas, exibindo um alerta caso isso ocorra.</li>
-<li>Visualização da Lista: Os nomes inseridos aparecem abaixo do campo de entrada.</li>
-<li>Sorteio Aleatório: Um nome é escolhido aleatoriamente ao clicar no botão "Sortear Amigo", e o resultado é exibido na tela.</li>
-</ul>
-<h2>Linguagens & Ferramentas</h2>
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+🛠️ Linguagens & Ferramentas
+<div align="center"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50px" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px" /> 
 </div>
+💻 Como executar
+1️⃣ Clone este repositório:
 
-<h2>Como executar</h2>
-<ol>
-<li>Clone este repositório:</li>
-<strong>git clone https://github.com/seu-usuario/sorteio-amigo-secreto.git</strong>
+sh
+Copiar
+Editar
+git clone https://github.com/seu-usuario/sorteio-amigo-secreto.git
+2️⃣ Acesse o diretório do projeto:
 
-<li>Acesse o diretório do projeto:</li>
-<strong>cd sorteio-amigo-secreto</strong>
-<li>Abra o arquivo index.html em um navegador.</li>
+sh
+Copiar
+Editar
+cd sorteio-amigo-secreto
+3️⃣ Abra o arquivo index.html em um navegador.
 
-</ol>
-<h2>Passo a Passo</h2>
-<ol>
-<li>Digite o nome de um amigo no campo de entrada.</li>
-<li>Clique em "Adicionar" para incluir o nome na lista.</li>
-<li>Repita o processo para adicionar mais nomes.</li>
-<li>Quando todos os nomes estiverem na lista, clique em "Sortear Amigo".</li>
-<li>O nome do sorteado será exibido na tela!</li>
-</ol>
-
-<h4>Desenvolvido por Rayssa Freitas</h4>
+🔥 Passo a Passo
+1️⃣ Digite o nome de um amigo no campo de entrada.
+2️⃣ Clique em "Adicionar" para incluir o nome na lista.
+3️⃣ Repita o processo para adicionar mais nomes.
+4️⃣ Quando todos os nomes estiverem na lista, clique em "Sortear Amigo".
+5️⃣ O nome do sorteado será exibido na tela!
