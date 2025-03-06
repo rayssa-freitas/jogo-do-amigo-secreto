@@ -1,42 +1,41 @@
-🎁 Jogo do Amigo Secreto
-🎉 Descubra seu amigo especial!
-📌 Objetivo
-Esta é uma aplicação simples que permite aos usuários inserirem nomes de amigos em uma lista e, em seguida, realizarem um sorteio aleatório para determinar quem será o "amigo secreto".
+  <h1>🎁 Jogo do Amigo Secreto</h1>
+  <h3>🎉 Descubra seu amigo especial!</h3>
 
-🚀 Funcionalidades
-✅ Adicionar Nomes: O usuário pode inserir nomes em um campo de texto e adicioná-los à lista ao clicar no botão "Adicionar".
-✅ Validação de Entrada: O programa impede que entradas vazias sejam adicionadas, exibindo um alerta caso isso ocorra.
-✅ Visualização da Lista: Os nomes inseridos aparecem abaixo do campo de entrada.
-✅ Sorteio Aleatório: Um nome é escolhido aleatoriamente ao clicar no botão "Sortear Amigo", e o resultado é exibido na tela.
+ <h2>📌 Objetivo</h2>
+    <p>Esta é uma aplicação simples que permite aos usuários inserirem nomes de amigos em uma lista e, em seguida, realizarem um sorteio aleatório para determinar quem será o <strong>"amigo secreto"</strong>.</p>
+ 
+<h2>🚀 Funcionalidades</h2>
+    <ul>
+        <li>✅ <strong>Adicionar Nomes:</strong> O usuário pode inserir nomes e adicioná-los à lista.</li>
+        <li>✅ <strong>Validação de Entrada:</strong> Impede que entradas vazias sejam adicionadas.</li>
+        <li>✅ <strong>Visualização da Lista:</strong> Exibe os nomes inseridos abaixo do campo de entrada.</li>
+        <li>✅ <strong>Sorteio Aleatório:</strong> Escolhe um nome aleatoriamente.</li>
+  </ul>
 
-🛠️ Linguagens & Ferramentas
-<div> 
+<h2>🛠️ Linguagens & Ferramentas</h2>
+<div class="icons">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg" width="50px" />
-
-
 </div>
-💻 Como executar
-1️⃣ Clone este repositório:
 
-sh
-Copiar
-Editar
-git clone https://github.com/seu-usuario/sorteio-amigo-secreto.git
-2️⃣ Acesse o diretório do projeto:
 
-sh
-Copiar
-Editar
-cd sorteio-amigo-secreto
-3️⃣ Abra o arquivo index.html em um navegador.
+<h2>💻 Como executar</h2>
+    <ol>
+        <li>1️⃣Clone este repositório:<br><strong>git clone https://github.com/seu-usuario/sorteio-amigo-secreto.git</strong></li>
+        <li>2️⃣Acesse o diretório do projeto:<br><strong>cd sorteio-amigo-secreto</strong></li>
+        <li>3️⃣Abra o arquivo <strong>index.html</strong> em um navegador.</li>
+    </ol>
 
-🔥 Passo a Passo
-<p>1️⃣ Digite o nome de um amigo no campo de entrada.</p>
-<p>2️⃣ Clique em "Adicionar" para incluir o nome na lista.</p>
-<p>3️⃣ Repita o processo para adicionar mais nomes.</p>
-<p>4️⃣ Quando todos os nomes estiverem na lista, clique em "Sortear Amigo".</p>
-<p>5️⃣ O nome do sorteado será exibido na tela!</p>
+  <h2>🔥 Passo a Passo</h2>
+    <ol>
+        <li>Digite o nome de um amigo no campo de entrada.</li>
+        <li>Clique em "Adicionar" para incluir o nome na lista.</li>
+        <li>Repita o processo para adicionar mais nomes.</li>
+        <li>Quando todos os nomes estiverem na lista, clique em "Sortear Amigo".</li>
+        <li>O nome do sorteado será exibido na tela!</li>
+    </ol>
+
+  <h4>📝 Desenvolvido por <strong>Rayssa Freitas</strong> ❤️</h4>
