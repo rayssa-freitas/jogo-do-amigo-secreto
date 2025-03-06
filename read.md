@@ -10,10 +10,14 @@ Esta é uma aplicação simples que permite aos usuários inserirem nomes de ami
 ✅ Sorteio Aleatório: Um nome é escolhido aleatoriamente ao clicar no botão "Sortear Amigo", e o resultado é exibido na tela.
 
 🛠️ Linguagens & Ferramentas
-<div align="center"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50px" /> 
+<div> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg width="50px"" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg width="50px"" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg width="50px"" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg width="50px"" />
+
+
 </div>
 💻 Como executar
 1️⃣ Clone este repositório:
