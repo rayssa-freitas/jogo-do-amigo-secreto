@@ -1,21 +1,3 @@
- <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f8f9fa;
-            margin: 0;
-            padding: 20px;
-            text-align: center;
-        }
-           ul, ol {
-            text-align: left;
-            display: inline-block;
-        }
-           .icons {
-            width: 50px;
-            margin: 5px;
-        }
-</style>
-    
   <h1>🎁 Jogo do Amigo Secreto</h1>
   <h3>🎉 Descubra seu amigo especial!</h3>
 
