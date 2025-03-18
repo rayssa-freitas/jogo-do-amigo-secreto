@@ -1,21 +1,3 @@
- <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f8f9fa;
-            margin: 0;
-            padding: 20px;
-            text-align: center;
-        }
-           ul, ol {
-            text-align: left;
-            display: inline-block;
-        }
-           .icons {
-            width: 50px;
-            margin: 5px;
-        }
-</style>
-    
   <h1>🎁 Jogo do Amigo Secreto</h1>
   <h3>🎉 Descubra seu amigo especial!</h3>
 
@@ -36,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px" /> 
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
 </div>
 
 
